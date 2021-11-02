@@ -1,6 +1,7 @@
 # VBA-challenge
 
 RESUBMISSION on November 1, 2021
+
 I am confused.  Grader commented that there was a runtime error when they ran the bile.  I re-ran VBA module "v3 StockSummary_BONUS 10272021" I do not get any run time errors before or after original submission.  I have made no changes to the VBA file "v3 StockSummary_BONUS 10272021".
 
 I also added missing screenshot to resubmit this homework.
