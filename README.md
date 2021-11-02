@@ -2,10 +2,11 @@
 
 RESUBMISSION on November 1, 2021
 
-I am confused.  Grader commented that there was a runtime error when they ran the file.  I re-ran VBA module "v3 StockSummary_BONUS 10272021" I do not get any run time errors before or after original submission.  I have made no changes to the VBA file "v3 StockSummary_BONUS 10272021".
+First, sorry about the missing screenshots. I added missing screenshots to resubmit this homework in this gitHub repo.
 
-I also added missing screenshot to resubmit this homework.
-Please advise and reply with any questions.
+Second, I am confused by grader comment about 'run time error'. I re-ran VBA module "v3 StockSummary_BONUS 10272021" and did not get errors on October 27 or after reviewing assignment comments on November 1. I have made no changes to the VBA file "v3 StockSummary_BONUS 10272021" in this gitHub repo.
+
+Please advise and reply with any questions. Thank you.
 
 ORIGINAL SUBMISSION  October 27, 2021
 
